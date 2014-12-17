@@ -1,0 +1,21 @@
+[
+	{
+		"name": "Beranda",
+		"link": "#/"
+	},
+	{
+		"name": "OSGeo Project",
+		"link": "javascript:",
+		"target": "#projects"
+	},
+	{
+		"name": "Komunitas",
+		"link": "javascript:",
+		"target": "#forum"
+	},
+	{
+		"name": "Hubungi Kami",
+		"link": "javascript:",
+		"target": "#contact-us"
+	}
+]
