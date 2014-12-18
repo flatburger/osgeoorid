@@ -18,7 +18,7 @@ angular.module('hoqiiApp')
     			'text': 'title',
     			'title': 'OSGeo Indonesia',
     			'description': 'Open Source Geospatial Foundation (OSGeo) Indonesia dibentuk untuk mendukung dan memberikan Software geospatial yang bersifat Opensource.',
-    			'faClass': 'icon-dice',
+    			'faClass': 'icon-expand',
                 'link': '#osgeo'
     		},
     		{
@@ -34,7 +34,7 @@ angular.module('hoqiiApp')
     			'text': 'title',
     			'title': 'Komunitas',
     			'description': 'Untuk saling berkomunikasi dan berkolaborasi antar user atau developer OSGeo di regional tertentu, khususnya Indonesia.',
-    			'faClass': 'icon-copy2',
+    			'faClass': 'icon-users',
                 'link': '#forum'
     		}
     	]
